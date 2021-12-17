@@ -1,0 +1,11 @@
+<html>
+	<body>
+		<h1>Hello</h1>
+<?php
+    $command = escapeshellcmd('predict.py');
+    $output = shell_exec($command);
+    echo "<h1>".$output."</h1>";
+?>
+<h2>end</h2>
+</body>
+</html>
