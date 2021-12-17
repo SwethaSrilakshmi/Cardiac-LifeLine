@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# Cardiac Lifeline
 
 Cardiovascular diseases are the leading cause of death globally, resulted in several million deaths. There are many risk factors for heart diseases that we will take a closer look at.
 
